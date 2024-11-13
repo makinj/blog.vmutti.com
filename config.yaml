@@ -1,0 +1,52 @@
+baseURL: 'https://blog.vmutti.com/'
+languageCode: en-us
+title: Vmutti
+theme: anatole
+params:
+  Author: Joshua Makinen
+  Description: Blog for people who are insecure and in security
+  profilePicture: /img/logo-1024.png
+  displayMode: dark
+#  disableThemeSwitcher: true
+  contentratio: 0.8
+  staticDir:
+    - static
+  fullPostContent: true
+  images: ["img/vmutti-full.png"]
+  enableRobotsTXT: true
+  customCss: ["css/syntax.css","css/vmutti.css"]
+  socialIcons:
+    - icon: fab fa-keybase
+      title: Keybase
+      url: 'https://keybase.io/vmutti'
+    - icon: fab fa-github
+      title: Github
+      url: 'https://github.com/makinj'
+    - icon: fab fa-twitter
+      title: Twitter
+      url: 'https://twitter.com/JoshuaMakinen'
+    - icon: fab fa-reddit
+      title: Reddit
+      url: 'https://www.reddit.com/user/vmutti2'
+pygmentsCodeFences: true
+pygmentsUseClasses: true
+
+markup:
+  tableOfContents:
+    endLevel: 1
+    ordered: true
+    startLevel: 1
+Menu:
+  Main:
+    - name: "Home"
+      identifier: home
+      url: "/"
+      weight: 1
+    - name: "Posts"
+      identifier: posts
+      url: "/posts"
+      weight: 3
+    # - name: "About"
+    #   identifier:
+    #   url: "/#about"
+    #   weight: 1
