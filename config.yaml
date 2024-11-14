@@ -31,6 +31,9 @@ params:
     - icon: fab fa-reddit
       title: Reddit
       url: 'https://www.reddit.com/user/vmutti2'
+    - icon: fab fa-linkedin-square
+      title: Linkedin
+      url: 'https://www.linkedin.com/in/joshua-makinen-09b12781/'
 pygmentsCodeFences: true
 pygmentsUseClasses: true
 disqusShortname: "blog-vmutti-com"
