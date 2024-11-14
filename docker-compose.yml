@@ -1,0 +1,8 @@
+services:
+  server:
+      image: docker.io/hugomods/hugo:ci
+      command: server --baseURL=http://localhost:8080 --appendPort=false
+      volumes:
+        - ".:/src"
+      ports:
+        - "8080:1313"
