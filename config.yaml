@@ -8,7 +8,7 @@ module:
 params:
   Author: Joshua Makinen
   Description: Blog for people who are insecure and in security
-  profilePicture: /img/logo-1024.png
+  profilePicture: img/logo-1024.png
   displayMode: dark
 #  disableThemeSwitcher: true
   contentratio: 0.8
