@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/vmutti
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://blog.vmutti.com
+  * I am vmutti (https://keybase.io/vmutti) on keybase.
+  * I have a public key ASBU335_SpcFc-cv-D8tpCudWXm2ccY2-BAsZo0qmPA97Qo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120acfd748f04202f40eac39427e58caa677aa57c562f6deb11a853f91dee41d7ab0a",
+      "host": "keybase.io",
+      "kid": "012054df7e7f4a970573e72ff83f2da42b9d5979b671c636f8102c668d2a98f03ded0a",
+      "uid": "043e3db4a4729e7c06ed44e466c67a19",
+      "username": "vmutti"
+    },
+    "merkle_root": {
+      "ctime": 1731560649,
+      "hash": "972e18146d7a2264b263a34157cee2feb05154ca5c4517149ddcda70fa1f360da1f39dff612e4277d87790500a4ac7e123920a113e7d081343d297d8c381a1ff",
+      "hash_meta": "39213e1860ba36c8b534ab0fea1088682e4678fcfdbab5852e0b4ac194b28da2",
+      "seqno": 26295887
+    },
+    "service": {
+      "entropy": "3QgPIRdhoJE0yK9oxjTg6K46",
+      "hostname": "blog.vmutti.com",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "6.4.0"
+  },
+  "ctime": 1731560660,
+  "expire_in": 504576000,
+  "prev": "6ce63ca218e158a764dfc0a6995ca5df509895df792613412e36467da41bcb38",
+  "seqno": 56,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgVN9+f0qXBXPnL/g/LaQrnVl5tnHGNvgQLGaNKpjwPe0Kp3BheWxvYWTESpcCOMQgbOY8ohjhWKdk38CmmVyl31CYld95JhNBLjZGfaQbyzjEIKXjfkmHfFgTQrLz7ArRkVNLDLP+nIjulriugLugccvVAgHCo3NpZ8RAbAcv7gP323TyTYZAsBXy+u+8sWbXREiwSkOGhTPP1whYfBEzg7mhDRp4SZMbybOUEggqDFthiDz0SbgiQxefAKhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIG3Lj1aNFL5dUth2UwA4w0ms+U+VnA5aglweQF4hCsXPo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/vmutti
+
+==================================================================
