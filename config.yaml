@@ -33,7 +33,7 @@ params:
       url: 'https://www.reddit.com/user/vmutti2'
 pygmentsCodeFences: true
 pygmentsUseClasses: true
-disqusShortname = "blog-vmutti-com"
+disqusShortname: "blog-vmutti-com"
 
 markup:
   tableOfContents:
