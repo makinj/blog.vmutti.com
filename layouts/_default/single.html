@@ -6,7 +6,7 @@
             {{ end }}
             <div class="post-title">
                 <h3>{{ .Title }}</h3>
-                {{ if or (eq .Type "post") (eq .Type .Site.Params.postSectionName) }}
+                {{ if or (eq .Type "posts") (eq .Type .Site.Params.postSectionName) }}
                     <div class="info">
                         <em class="fas fa-calendar-day"></em>
                         <span class="date">{{ if isset .Site.Params "singledateformat" }}
@@ -20,6 +20,7 @@
             </div>
 
             <div>
+              <h2>Table Of Contents</h2>
               {{ .TableOfContents }}
             </div>
             {{ .Content }}
