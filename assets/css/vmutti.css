@@ -52,3 +52,6 @@ strong {
     margin-right: 4px;
     border-right: 1px solid #b252a1;
 }
+.theme--dark code {
+    color: #b252a1;
+}
