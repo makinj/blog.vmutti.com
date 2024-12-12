@@ -12,7 +12,7 @@ showFullContent = true
 
 # Intro
 
-I made a [plugin](https://galaxy.ansible.com/ui/repo/published/makinj/fancy_groups/) a while back to solve the two biggest problems I had when managing complex Ansible inventories and want to share them in case others have the same gripes as me. 
+I made [a couple plugins](https://galaxy.ansible.com/ui/repo/published/makinj/fancy_groups/) a while back to solve the two biggest problems I had when managing complex Ansible inventories and want to share them in case others have the same gripes as me. 
 
 # Installing
 1. Run `ansible-galaxy collection install makinj.fancy_groups` or add `makinj.fancy_groups` to your `requirements.yml` file.
